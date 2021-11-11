@@ -13,7 +13,7 @@ eia_country_gas_exports.csv - data from EIA
 
 eia_country_oil_exports.csv - data from EIA
 
-gas_spot_market_proportions.csv - data retrieved from GIIGNL publications for years 1996-2018 <https://giignl.org/publications>
+gas_spot_market_proportions.csv - data retrieved from GIIGNL publications for years 2004-2018 <https://giignl.org/publications>
 
 korea_electricity_generation.csv - data from BP as compiled by Our World in Data
 
